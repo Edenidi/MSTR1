@@ -13,7 +13,7 @@ Seuls les agents dont la fiche sera présente sur le site auront accès au local
 # Realisation
 
 Page d'acceuil:
-<img width="1440" alt="Capture d’écran 2022-02-20 à 17 00 44" src="https://user-images.githubusercontent.com/93190978/154851820-df14f490-1656-4e19-a1d3-6bd7b668e23e.png">
+<img width="1440" alt="Capture d’écran 2022-02-20 à 17 46 21" src="https://user-images.githubusercontent.com/93190978/154853880-367cd590-be2f-45e8-bc25-04ee92cefc7c.png">
 
 Page d'authentification:
 <img width="1440" alt="Capture d’écran 2022-02-20 à 17 01 04" src="https://user-images.githubusercontent.com/93190978/154851836-d02db292-8fdc-4b4a-bbd3-7c909604bd86.png">
