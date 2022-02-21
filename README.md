@@ -2,18 +2,18 @@
 
 <p align="center"><img width="275" alt="Capture d’écran 2022-01-24 à 15 27 01" src="https://user-images.githubusercontent.com/93190978/154850277-6498765c-0ff7-48f9-bd13-0050253ff424.png"></p>
 
-« Go Securi » met à disposition des agents professionnels, hautement qualifiés et formés à toute situation relevant de la sécurité, de la surveillance, du gardiennage et de la protection.
+"Go Securi" provides professional agents, highly qualified and trained in any situation relating to security, surveillance, guarding and protection.
 
-# CONTEXTE DU BESOIN – CAHIER DES CHARGES
+# Context of need – Specifications
 
-Concevoir une solution Web permettant de consulter les fiches des agents et des équipements en leur possession. 
-Ce site sera utilisé pour vérifier l’accès au local sécurisé.
-Seuls les agents dont la fiche sera présente sur le site auront accès au local.
+Design a Web solution to consult the files of the agents and the equipment in their possession.
+This site will be used to verify access to the secure premises.
+Only agents whose file will be present on the site will have access to the premises.
 
-# Realisation
+# Implementation
 
-Page d'acceuil:
+<h2>Home page</h2>
 <img width="1440" alt="Capture d’écran 2022-02-20 à 17 46 21" src="https://user-images.githubusercontent.com/93190978/154853880-367cd590-be2f-45e8-bc25-04ee92cefc7c.png">
 
-Page d'authentification:
+<h2>Authentication page</h2>
 <img width="1440" alt="Capture d’écran 2022-02-20 à 17 01 04" src="https://user-images.githubusercontent.com/93190978/154851836-d02db292-8fdc-4b4a-bbd3-7c909604bd86.png">
