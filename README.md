@@ -17,3 +17,6 @@ Only agents whose file will be present on the site will have access to the premi
 
 <h2>Authentication page</h2>
 <img width="1440" alt="Capture d’écran 2022-02-20 à 17 01 04" src="https://user-images.githubusercontent.com/93190978/154851836-d02db292-8fdc-4b4a-bbd3-7c909604bd86.png">
+
+<h2> Agent file </h2>
+<img width="1440" alt="<img width="1229" alt="Capture d’écran 2022-02-27 à 15 27 02" src="https://user-images.githubusercontent.com/93190978/155886470-fe984eaa-52e2-4d5b-aba8-01f2a60ffc23.png">
